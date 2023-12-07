@@ -1,5 +1,0 @@
-This is Chat Application 
-
-Emoji
-Text colure
-background
